@@ -5,7 +5,7 @@
 ### Registro remitente
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
   - El registro se realiza correctamente
@@ -13,23 +13,23 @@
 ### Verificación facial remitente
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
-  - La verificacion facial se realiza correctamente
+  - La verificación facial se realiza correctamente
 
-### Login usuario + contrasena + token Remiten
+### Login usuario + contraseña + token Remiten
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
-  - El incio de sesion se realiza correctamente
+  - El inicio de sesión se realiza correctamente
 
 ### Cargue de documento y firma por yo
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
   - El cargue del documento y firma fueron satisfactorios
@@ -37,15 +37,15 @@
 ### Cargue de documento y firma por otros (validar registro, verificacion y login con token de destinatario)
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
   - El proceso del cargue y firma del documento se realiza satisfactoriamente
 
-### Cargue de documento y firma por Otros y yo (validar registro, verificacion y login con token de destinatario)
+### Cargue de documento y firma por Otros y yo (validar registro, verificación y login con token de destinatario)
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
   - El proceso del cargue y firma del documento se realiza satisfactoriamente
@@ -53,7 +53,7 @@
 ### Crear carpeta
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
   - La carpeta fue creada satisfactiria mente
@@ -61,7 +61,7 @@
 ### Copiar documentos a Carpeta
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
   
 - **Observaciones:**
   - Solo se copian a la carpeta los documentos en los que soy firmante
@@ -69,7 +69,7 @@
 ### Descargar de certificado de registro perfil de datos
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
   - El sertificado se descarga correctamente
@@ -77,7 +77,7 @@
 ### Dibujar firmar, cargue de imagen de firma y fuente
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
   - La firma dibujada, cargada y de fuente funcionan correctamente
@@ -85,7 +85,7 @@
 ### Usar minimo 3 plantillas y firmarlas
 
 - **Prueba:**
-  - Satisfactoria ✅
+  - Satisfactoria :white_check_mark:
   
   ![Foto error de editar perfil](/img/carta_de_ascenso.png)
   ![Foto error de editar perfil](/img/formato_de_vacaciones.png)
@@ -97,8 +97,8 @@
 ### Editar datos de perfil
 
 - **Prueba:**
-  - Incidencia 🔴
+  - Incidencia :red_circle:
     ![Foto error de editar perfil](/img/editar_perfil.png)
 
 - **Observaciones:**
-  - Solo deja editar el numero de telefono, el campo dejar guardar el numero sin el codigo del pais.
+  - Solo deja editar el numero de telefono, el campo dejar guardar el numero sin el código del pais.
