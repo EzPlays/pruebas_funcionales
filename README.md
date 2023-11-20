@@ -2,140 +2,102 @@
 
 ## Instancia firmadocsuntic
 
-​
-
-### Registro remitente. ✅
+### Registro remitente
 
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
 
 - **Observaciones:**
   - El registro se realiza correctamente
 
-​
-
-### Verificación facial remitente. ✅
-
-​
+### Verificación facial remitente
 
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
 
 - **Observaciones:**
   - La verificacion facial se realiza correctamente
 
-​
-
-### Login usuario + contrasena + token Remiten. ✅
-
-​
+### Login usuario + contrasena + token Remiten
 
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
 
 - **Observaciones:**
   - El incio de sesion se realiza correctamente
 
-​
-
-### Cargue de documento y firma por yo. ✅
-
-​
+### Cargue de documento y firma por yo
 
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
 
 - **Observaciones:**
   - El cargue del documento y firma fueron satisfactorios
 
-​
-
-### Cargue de documento y firma por otros (validar registro, verificacion y login con token de destinatario). ✅
-
-​
+### Cargue de documento y firma por otros (validar registro, verificacion y login con token de destinatario)
 
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
 
 - **Observaciones:**
   - El proceso del cargue y firma del documento se realiza satisfactoriamente
-​
 
 ### Cargue de documento y firma por Otros y yo (validar registro, verificacion y login con token de destinatario)
 
-​
-
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
 
 - **Observaciones:**
   - El proceso del cargue y firma del documento se realiza satisfactoriamente
 
-​
-
 ### Crear carpeta
 
-​
-
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
 
 - **Observaciones:**
   - La carpeta fue creada satisfactiria mente
 
-​
-
 ### Copiar documentos a Carpeta
 
-​
-
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
+  
 - **Observaciones:**
   - Solo se copian a la carpeta los documentos en los que soy firmante
-​
 
 ### Descargar de certificado de registro perfil de datos
 
-​
-
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
 
 - **Observaciones:**
   - El sertificado se descarga correctamente
 
-​
-
 ### Dibujar firmar, cargue de imagen de firma y fuente
 
-​
-
 - **Prueba:**
-  - Satisfactoria
+  - Satisfactoria ✅
 
 - **Observaciones:**
   - La firma dibujada, cargada y de fuente funcionan correctamente
-​
 
 ### Usar minimo 3 plantillas y firmarlas
 
-​
-
 - **Prueba:**
-  - Satisfactorio
+  - Satisfactoria ✅
+  ![Foto error de editar perfil](/img/carta_de_ascenso.png)
+  ![Foto error de editar perfil](/img/formato_de_vacaciones.png)
+  ![Foto error de editar perfil](/img/solicitud_dia_corto.png)
 
 - **Observaciones:**
   - Los formatos se generan satisfactoriamente
 
-​
-
 ### Editar datos de perfil
 
-​
-
 - **Prueba:**
-  - Incidencia
+  - Incidencia 🔴
     ![Foto error de editar perfil](/img/editar_perfil.png)
+
 - **Observaciones:**
   - Solo deja editar el numero de telefono, el campo dejar guardar el numero sin el codigo del pais.
