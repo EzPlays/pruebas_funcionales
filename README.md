@@ -86,6 +86,7 @@
 
 - **Prueba:**
   - Satisfactoria ✅
+  
   ![Foto error de editar perfil](/img/carta_de_ascenso.png)
   ![Foto error de editar perfil](/img/formato_de_vacaciones.png)
   ![Foto error de editar perfil](/img/solicitud_dia_corto.png)
