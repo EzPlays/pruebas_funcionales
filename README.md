@@ -34,7 +34,7 @@
 - **Observaciones:**
   - El cargue del documento y firma fueron satisfactorios
 
-### Cargue de documento y firma por otros (validar registro, verificacion y login con token de destinatario)
+### Cargue de documento y firma por otros (validar registro, verificación y login con token de destinatario)
 
 - **Prueba:**
   - Satisfactoria :white_check_mark:
@@ -56,7 +56,7 @@
   - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
-  - La carpeta fue creada satisfactiria mente
+  - La carpeta fue creada satisfactoria mente
 
 ### Copiar documentos a Carpeta
 
@@ -72,7 +72,7 @@
   - Satisfactoria :white_check_mark:
 
 - **Observaciones:**
-  - El sertificado se descarga correctamente
+  - El certificado se descarga correctamente
 
 ### Dibujar firmar, cargue de imagen de firma y fuente
 
@@ -82,7 +82,7 @@
 - **Observaciones:**
   - La firma dibujada, cargada y de fuente funcionan correctamente
 
-### Usar minimo 3 plantillas y firmarlas
+### Usar mínimo 3 plantillas y firmarlas
 
 - **Prueba:**
   - Satisfactoria :white_check_mark:
@@ -101,4 +101,4 @@
     ![Foto error de editar perfil](/img/editar_perfil.png)
 
 - **Observaciones:**
-  - Solo deja editar el numero de telefono, el campo dejar guardar el numero sin el código del pais.
+  - Solo deja editar el numero de teléfono, el campo dejar guardar el numero sin el código del país.
